@@ -20,3 +20,7 @@ Este repositorio forma parte de mis prácticas de Git y GitHub del curso de espe
 - He creado mi primer repositorio.
 - He realizado mi primer commit.
 - He sincronizado los cambios con GitHub.
+
+## Experimento con ramas
+
+Este cambio se ha realizado en la rama prueba-ramas.
