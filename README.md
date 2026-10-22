@@ -14,3 +14,9 @@ Este repositorio forma parte de mis prácticas de Git y GitHub del curso de espe
 - Git
 - GitHub
 - Visual Studio Code
+
+## Mi progreso
+
+- He creado mi primer repositorio.
+- He realizado mi primer commit.
+- He sincronizado los cambios con GitHub.
