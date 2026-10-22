@@ -24,3 +24,7 @@ Este repositorio forma parte de mis prácticas de Git y GitHub del curso de espe
 ## Experimento con ramas
 
 Este cambio se ha realizado en la rama prueba-ramas.
+
+## Documentación del proyecto
+
+Esta sección se ha añadido para practicar el flujo de trabajo con Pull Requests en GitHub.
